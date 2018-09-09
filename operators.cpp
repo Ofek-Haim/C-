@@ -27,7 +27,6 @@ inline Vector2D operator + (const Vector2D &a, const Vector2D &b)
 	return res;
 }
 
-
 void operators()
 {
 	Vector2D foo = { 10, 20 };
