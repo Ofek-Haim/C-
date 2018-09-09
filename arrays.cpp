@@ -22,7 +22,6 @@ void arrays()
 		cout << "numbers[" << i << "] = " << numbers[i] << endl;
 	}
 	int array[5][5];
-
 }
 
 
