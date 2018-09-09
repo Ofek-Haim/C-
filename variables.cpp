@@ -6,7 +6,6 @@
 
 using namespace std;
 
-
 void variables()
 {
 	char tav = 'T';
@@ -52,6 +51,7 @@ void variables()
 	cout << 5 / 2.2 << endl;
 	
 }
+
 
 int main()
 {
