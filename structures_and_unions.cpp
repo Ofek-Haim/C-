@@ -34,6 +34,7 @@ void structures_and_unions()
 	cout << "u number = " << u_var.number << " u tav = " << u_var.tav << endl;
 }
 
+
 int main()
 {
 	structures_and_unions();
