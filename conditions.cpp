@@ -46,6 +46,7 @@ void conditions()
 	cout << max << endl;
 }
 
+
 int main()
 {
 	conditions();
