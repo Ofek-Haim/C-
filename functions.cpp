@@ -7,7 +7,7 @@
 
 using namespace std;
 
-int add5(int number) {
+int add5(int number){
 	return number + 5;
 }
 
