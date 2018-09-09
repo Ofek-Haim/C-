@@ -5,6 +5,7 @@
 #include <iostream>
 #include <vector>
 
+
 using namespace std;
 
 
@@ -54,6 +55,7 @@ void dynamic_memory()
 		cout << "v[" << i << "] = " << v[i] << endl;
 
 }
+
 
 int main()
 {
