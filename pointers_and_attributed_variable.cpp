@@ -54,7 +54,6 @@ void pointers_and_attributed_variable()
 	getnum() = 50;
 	cout << getnum() << endl;
 	cout << global_number << endl;
-
 }
 
 int main()
