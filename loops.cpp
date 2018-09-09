@@ -6,7 +6,6 @@
 
 using namespace std;
 
-
 void loops()
 {
 	cout << "All the numbers that get input will be added to sum" << endl;
