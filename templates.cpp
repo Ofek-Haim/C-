@@ -23,6 +23,7 @@ void templates()
 	cout << "a = " << a << " b = " << b << endl;
 }
 
+
 int main()
 {
 	templates();
