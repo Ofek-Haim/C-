@@ -39,8 +39,8 @@ void polymorphism()
 	circle.setName("Circle2");
 	circle.setRadius(10.3);
 	cout << "Radius of " << circle.getName() << " = " << circle.getRadius() << endl;
-
 }	
+
 
 int main()
 {
