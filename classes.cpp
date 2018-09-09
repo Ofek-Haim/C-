@@ -84,6 +84,7 @@ void classes()
 	// time.day = 80; XX PRIVATE XX !! שגיאה
 }	
 
+
 int main()
 {
 	classes();
