@@ -22,6 +22,7 @@ void exceptions()
 	}
 }
 
+
 int main()
 {
 	exceptions();
