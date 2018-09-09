@@ -4,7 +4,6 @@
 #include "stdafx.h"
 #include <iostream>
 
-
 using namespace std;
 
 class Shape
@@ -55,6 +54,7 @@ void virtual_function_and_abstract_classes()
 	Shape s();
 	Shape2 s2(); // Error - abstract class
 }	
+
 
 int main()
 {
