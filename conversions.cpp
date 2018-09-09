@@ -8,7 +8,6 @@
 using namespace std;
 
 
-
 void conversions()
 {
 	int *p = (int*)malloc(sizeof(int)); // malloc return (void*)
@@ -16,6 +15,7 @@ void conversions()
 	cout << "a = " << a << endl;
 
 }	
+
 
 int main()
 {
